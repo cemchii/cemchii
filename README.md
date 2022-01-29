@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Cem.D](https://cemchii.com)
-> Software Engineer at [cemchii](https://cemchii.com)
+
 
 
 <img src="https://cem.com/ghpvc/?username=cem" alt="cemchii" />
