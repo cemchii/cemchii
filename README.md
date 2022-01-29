@@ -39,9 +39,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.cemchii.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/cemchii/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="https://www.cemchii.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.cemchii.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/cemchii/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@cemchii-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/8519896/cemchii?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-cemchii%20Mainali-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:cemchii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cemchii@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
